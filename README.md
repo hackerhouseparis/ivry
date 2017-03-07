@@ -1,5 +1,5 @@
 # ivry
-Assets to push Ivry
+Photos et texte pour Trouver un nouveau coloc pour la HackerHouse Ivry
 
 ## Annonce
 ### Wording
@@ -36,16 +36,21 @@ Service Focus & Clean : Lave+Séche Linge + femme de ménage 2x / semaine 👌
 - Tag les **noms de colocs** si possible (Facebook)
 - Tag **HackerHouse** par la page [HackerHouse](https://www.facebook.com/hackerhouseparis/)
 - Remplace les `textes` par les bonnes valeurs. Ex : > 📷 On a créé un petit insta de notre vie quotidienne : `goo.gl/2926IL`
-
-PS : 
-- Leboncoin n'accepte pas les liens dans le message : `⚠️ GOOGLE "hackerhouse" avant de nous écrire !` fortement recommandé
-- Facebook : Tagguez vos colocs sans pitié. CTA à Gogo
-- La Carte Des Colocs : Tags et CTA impossible donc `⚠️ GOOGLE "hackerhouse" avant de nous écrire !` fortement recommandé
+- Mettre le prix de base à 500€ (vrai prix 520€ dans l'annonce)
 
 ### Images
 Les images sont numérotés par ordre d'upload
 
 ## Distribution
-### Facebook
+### [Facebook](https://facebook.com)
+- Tagguez vos colocs sans pitié. CTA à Gogo
 - Groupe [Wanted Bon Plan Paris](https://www.facebook.com/groups/WantedBP/)
 - Groupe [Colocation à Paris](https://www.facebook.com/groups/Colocation.in.Paris/)
+
+### [Leboncoin](https://www.leboncoin.fr/ai/form/0?ca=12_s)
+- Localisation : 13eme; Prix : 500€; 140m2; 7 pièces; Energie: A & A;
+- n'accepte pas les liens dans le message : `⚠️ GOOGLE "hackerhouse" avant de nous écrire !` fortement recommandé
+
+### [La Carte Des Colocs](http://lacartedescolocs.fr)
+- Vraie addresse : 92 rue Victor Hugo 94200
+- Tags et CTA impossible donc `⚠️ GOOGLE "hackerhouse" avant de nous écrire !` fortement recommandé
