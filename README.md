@@ -8,7 +8,8 @@ Photos et texte pour Trouver un nouveau coloc pour la HackerHouse Ivry
 > ⚠️ GOOGLE "hackerhouse" avant de nous écrire !
 
 > 👫 NOUS
-**Houda**, **Anissa**, **Joan**, **Stéphane**, **Sylvain**, **William**, **Remy**, **Nicolas** & **Tchoucho** `9` jeunes (moyenne d'age 23 ans), très faciles à vivre, hyper cools of course. 
+
+> **Houda**, **Anissa**, **Joan**, **Stéphane**, **Sylvain**, **William**, **Remy**, **Nicolas** & **Tchoucho** `9` jeunes (moyenne d'age 23 ans), très faciles à vivre, hyper cools of course. 
 On vit, mange, respire STARTUP (on est tous dev, entrepreneurs ou marketing). 
 On bosse dur la journée, chacun a sa startup (sauf qquns en stage) et détente le soir. Le weekend on organise des hackathons & brunchs startups (l'occasion de rencontrer des gens et bien bouffer). 
 Sinon pour le côté healthy : on mange souvent bio, on médite tous les 3 matins et on fait du sport quand **Houda** a pas trop la flemme.
@@ -17,15 +18,18 @@ Service Focus & Clean : Lave+Séche Linge + femme de ménage 2x / semaine 👌
 > 📷 On a créé un petit insta de notre vie quotidienne : `_______"hackerhouseparis" ou goo.gl/2926IL_______`
 
 > 👱 TOI 
+
 > - - capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat) 
 > - - tu lances ta startup (condition obligatoire) 
 > - - assez clean tout de même (Sinon on te blame sur Slack) 
 > - - si tu fumes, tu seras exclues avec **Houda** sur la terrasse
 
 > 🏡 La **HackerHouse**
+
 > Fibre optique, duplex de 150m2 connectée et meublée du sol au plafond, métro Pierre et Marie Curie L7 ou Ivry Sur Seine RER C.
 
 > 😴 TON LIT
+
 > meublé, 520 euros CC, aucun dépot de garantie ni de garants.
 > Plus d'infos : MP ou envoi nous un message via notre petit site hackerhouse paris
 
