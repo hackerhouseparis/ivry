@@ -43,6 +43,7 @@ Les images sont numérotés par ordre d'upload
 
 ## Distribution
 ### [Facebook](https://facebook.com)
+- Si c'est un groupe : poster une annonce de vente
 - Tagguez vos colocs sans pitié. CTA à Gogo
 - Groupe [Wanted Bon Plan Paris](https://www.facebook.com/groups/WantedBP/)
 - Groupe [Colocation à Paris](https://www.facebook.com/groups/Colocation.in.Paris/)
