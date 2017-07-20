@@ -7,43 +7,26 @@ Photos et texte pour Trouver un nouveau coloc pour la HackerHouse Ivry
 
 > ⚠️ GOOGLE "hackerhouse" avant de nous écrire !
 
-> 👫 NOUS
-<<<<<<< HEAD:README.md
-
-> **Houda**, **Anissa**, **Joan**, **Stéphane**, **Sylvain**, **William**, **Remy**, **Nicolas** & **Tchoucho** `9` jeunes (moyenne d'age 23 ans), très faciles à vivre, hyper cools of course. 
-On vit, mange, respire STARTUP (on est tous dev, entrepreneurs ou marketing). 
-On bosse dur la journée, chacun a sa startup (sauf qquns en stage) et détente le soir. Le weekend on organise des hackathons & brunchs startups (l'occasion de rencontrer des gens et bien bouffer). 
-=======
-**Houda**, **Anissa**, **Joan**, **Stéphane**, **Sylvain**, **William**, **Remy**, **Nicolas** & **Tchoucho** `9` jeunes (moyenne d'age 23 ans), très faciles à vivre, hyper cools of course.
+> 👫 NOUS  
+> **Victoria**, **Nadia**, **Remy**, **Stéphane**, **Jake**, **Brian**, **Julien**, **Nicolas** & **Pierre** `9` jeunes (moyenne d'age 23 ans), très faciles à vivre, hyper cools of course.
 On vit, mange, respire STARTUP (on est tous dev, entrepreneurs ou marketing).
-On bosse dur la journée, chacun a sa startup (sauf qquns en stage) et détente le soir. Le weekend on organise des hackathons & brunchs startups (l'occasion de rencontrer des gens et bien bouffer).
->>>>>>> adding hq:ivry/README.md
-Sinon pour le côté healthy : on mange souvent bio, on médite tous les 3 matins et on fait du sport quand **Houda** a pas trop la flemme.
+On bosse dur la journée, chacun a sa startup (sauf qquns en stage) et détente le soir. Le weekend on organise des hackathons & brunchs startups (l'occasion de rencontrer des gens et bien bouffer).  
+Sinon pour le côté healthy : on mange souvent bio, on médite tous les 3 matins et on fait du sport quand **Victoria** a pas trop la flemme.  
 Service Focus & Clean : Lave+Séche Linge + femme de ménage 2x / semaine 👌
 
 > 📷 On a créé un petit insta de notre vie quotidienne : `_______"hackerhouseparis" ou goo.gl/2926IL_______`
 
-<<<<<<< HEAD:README.md
-> 👱 TOI 
+> 👱 TOI  
+> – capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat)  
+> – tu lances ta startup (condition obligatoire)  
+> – assez clean tout de même (Sinon on te blame sur Slack)  
+> – si tu fumes, tu seras exclues avec **Houda** sur la terrasse  
 
-> - - capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat) 
-> - - tu lances ta startup (condition obligatoire) 
-> - - assez clean tout de même (Sinon on te blame sur Slack) 
-> - - si tu fumes, tu seras exclues avec **Houda** sur la terrasse
-=======
-> 👱 TOI
-> - capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat)
-> - tu lances ta startup (condition obligatoire)
-> - assez clean tout de même (Sinon on te blame sur Slack)
-> - si tu fumes, tu seras exclues avec **Houda** sur la terrasse
->>>>>>> adding hq:ivry/README.md
 
-> 🏡 La **HackerHouse**
-
+> 🏡 La **HackerHouse**  
 > Fibre optique, duplex de 150m2 connectée et meublée du sol au plafond, métro Pierre et Marie Curie L7 ou Ivry Sur Seine RER C.
 
-> 😴 TON LIT
-
+> 😴 TON BUREAU ET LIT  
 > meublé, 520 euros CC, aucun dépot de garantie ni de garants.
 > Plus d'infos : MP ou envoi nous un message via notre petit site hackerhouse paris
 
@@ -73,3 +56,7 @@ Les images sont numérotés par ordre d'upload
 ### [La Carte Des Colocs](http://lacartedescolocs.fr)
 - Vraie addresse : 92 rue Victor Hugo 94200
 - Tags et CTA impossible donc `⚠️ GOOGLE "hackerhouse" avant de nous écrire !` fortement recommandé
+
+
+
+

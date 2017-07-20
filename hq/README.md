@@ -1,4 +1,4 @@
-# ivry
+# HQ
 Photos et texte pour Trouver un nouveau coloc pour la HackerHouse HQ (Aubervilliers)
 
 ## Annonce
@@ -7,25 +7,25 @@ Photos et texte pour Trouver un nouveau coloc pour la HackerHouse HQ (Aubervilli
 
 > ⚠️ GOOGLE "hackerhouse" avant de nous écrire !
 
-> 👫 NOUS
+> 👫 NOUS  
 **Louise**, **Nicolas**, **Arthur**, **Edmond-Xavier**, **Léo**, **Quentin** & **Emmanuel** `7` jeunes (moyenne d'age 23 ans), très faciles à vivre, hyper cools of course.
 On vit, mange, respire STARTUP (on est tous dev, entrepreneurs ou marketing).
-On bosse dur la journée, chacun a sa startup (sauf qquns en stage) et détente le soir. Le weekend on organise des hackathons & brunchs startups (l'occasion de rencontrer des gens et bien bouffer).
+On bosse dur la journée, chacun a sa startup (sauf qquns en stage) et détente le soir. Le weekend on organise des hackathons & brunchs startups (l'occasion de rencontrer des gens et bien bouffer).  
 Sinon pour le côté healthy : on mange souvent bio, on médite tous les 3 matins et on fait du sport quand **Louise** a pas trop la flemme.
 Service Focus & Clean : Lave+Séche Linge + femme de ménage 2x / semaine 👌
 
 > 📷 On a créé un petit insta de notre vie quotidienne : `"hackerhouseparis" ou goo.gl/2926IL`
 
-> 👱 TOI
-> - capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat)
-> - tu lances ta startup (condition obligatoire)
-> - assez clean tout de même (Sinon on te blame sur Slack)
-> - si tu fumes, tu seras exclues avec **Louise** sur la terrasse
+> 👱 TOI  
+> – capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat)  
+> – tu lances ta startup (condition obligatoire)  
+> – assez clean tout de même (Sinon on te blame sur Slack)
+> – si tu fumes, tu seras exclues avec **Louise** sur la terrasse
 
-> 🏡 La **HackerHouse**
+> 🏡 La **HackerHouse**  
 > Fibre optique, appart de 80m2 connectée et meublée du sol au plafond, métro Front Populaire L12 ou Rosa Parks RER E.
 
-> 😴 TON LIT
+> 😴 TON BUREAU & LIT  
 > meublé, 520 euros CC, aucun dépot de garantie ni de garants.
 > Plus d'infos : MP ou envoi nous un message via notre petit site hackerhouse paris
 
