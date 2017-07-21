@@ -19,7 +19,7 @@ Service Focus & Clean : Lave+Séche Linge + femme de ménage 2x / semaine 👌
 > 👱 TOI  
 > – capable de sortir de ta zone de confort (oui chambre partagée comme à l'internat)  
 > – tu lances ta startup (condition obligatoire)  
-> – assez clean tout de même (Sinon on te blame sur Slack)
+> – assez clean tout de même (Sinon on te blame sur Slack)  
 > – si tu fumes, tu seras exclues avec **Louise** sur la terrasse
 
 > 🏡 La **HackerHouse**  
