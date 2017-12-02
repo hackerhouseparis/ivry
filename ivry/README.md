@@ -31,6 +31,7 @@ Service Focus & Clean : Lave+Séche Linge + femme de ménage 2x / semaine 👌
 > Plus d'infos : MP ou envoi nous un message via notre petit site hackerhouse paris
 
 ### Instructions
+- **Toujours utiliser 'HackerHouse Coloc Startup' en titre**
 - Toujours poster avec ton vrai compte et ta vraie bouille
 - Utilise ton réseau : école, incubateur, potos etc pour trouver ton prochain colohacker de rêve
 - Remplacer les **noms de colocs** par tes colocs actuels
